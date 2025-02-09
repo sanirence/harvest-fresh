@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/harvest-fresh/static/css/main.dde874fa.css",
+    "main.js": "/harvest-fresh/static/js/main.63ee5c97.js",
+    "static/media/img-about.png": "/harvest-fresh/static/media/img-about.81728a3778c1f09fa1d3.png",
+    "static/media/img-home.png": "/harvest-fresh/static/media/img-home.7c637fff5c928ee5841b.png",
+    "static/media/img-service.png": "/harvest-fresh/static/media/img-service.0f27e2f0d0cf230a36b0.png",
+    "static/media/img-product2.png": "/harvest-fresh/static/media/img-product2.192d4c40a764e66cefe7.png",
+    "static/media/img-product1.png": "/harvest-fresh/static/media/img-product1.1171589f8a6ea7615cd3.png",
+    "static/media/img-product3.png": "/harvest-fresh/static/media/img-product3.faf799f8dbb9c25b78b7.png",
+    "static/media/img-product8.png": "/harvest-fresh/static/media/img-product8.8aab504d2ede2d39ae2c.png",
+    "static/media/img-product7.png": "/harvest-fresh/static/media/img-product7.f3b20a95f8ed63d5c582.png",
+    "static/media/img-product9.png": "/harvest-fresh/static/media/img-product9.26590d18af831b3da2aa.png",
+    "static/media/img-product5.png": "/harvest-fresh/static/media/img-product5.c933db191d410fd70476.png",
+    "static/media/img-product6.png": "/harvest-fresh/static/media/img-product6.287c655ff100467f0bff.png",
+    "static/media/img-product4.png": "/harvest-fresh/static/media/img-product4.24061d847998357cb559.png",
+    "index.html": "/harvest-fresh/index.html",
+    "main.dde874fa.css.map": "/harvest-fresh/static/css/main.dde874fa.css.map",
+    "main.63ee5c97.js.map": "/harvest-fresh/static/js/main.63ee5c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde874fa.css",
+    "static/js/main.63ee5c97.js"
+  ]
+}
